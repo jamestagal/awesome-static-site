@@ -1,6 +1,6 @@
 baseurl = "https://www.elearnvietnamese.com/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "eLearn Vietnamese"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
