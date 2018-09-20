@@ -20,8 +20,8 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "eLearn Vietnamese"
+	description = "Vietnamese eLearning solutions built on modern web standards"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "eLearn Vietnamese"
 
 		[params.navigation.links]
 			about     = "About"
@@ -41,8 +41,8 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
+		slogan     = "Learn Vietnamese online "
+		subtitle   = "eLearn Vietnamese creates engaging interactive eLearning content for learning Vietnamese. Learn on the go, on any device"
 		buttonText = "Find out more"
 
 
