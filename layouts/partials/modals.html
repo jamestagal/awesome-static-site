@@ -15,10 +15,10 @@
                         {{ with .title }}
                             <h2>{{ . }}</h2>
                         {{ end }}
-                        {{ partial "h5p.html" . }}
                         {{ if and .title .description }}
                             <hr class="star-primary">
                         {{ end }}
+                        {{ partial "h5p.html" . }}
                         <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
                         {{ with .description }}
                             <p>{{ . | markdownify }}</p>
