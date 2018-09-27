@@ -15,8 +15,7 @@
                         {{ with .title }}
                             <h2>{{ . }}</h2>
                         {{ end }}
-                        {{ with .h5pID }}
-                        {{ end }}
+                        {{ partial "h5p.html" . }}
                         {{ if and .title .description }}
                             <hr class="star-primary">
                         {{ end }}
