@@ -41,8 +41,8 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Learn Vietnamese online"
-		subtitle   = "eLearn Vietnamese creates engaging interactive eLearning content for learning Vietnamese. Learn on the go, on any device"
+		slogan     = "Learn Vietnamese online <br> on any device"
+		subtitle   = "eLearn Vietnamese creates engaging & interactive eLearning content for learning Vietnamese"
 		buttonText = "Find out more"
 
 
