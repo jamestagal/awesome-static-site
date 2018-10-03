@@ -89,7 +89,7 @@ disqusShortname = "elearnvietnamese"
 
     # Aside section
 	[params.aside]
-		headline = "Learning Vietnamese Showcase"
+		headline = "eLearn Vietnamese Showcase"
 
 		[params.aside.button]
 			text = ""
