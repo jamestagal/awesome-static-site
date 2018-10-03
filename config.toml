@@ -87,11 +87,11 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Showcase of integrative activites for learning Vietnamese"
 
 		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			text = ""
+			link = ""
 
 	# Contact section
 	[params.contact]
