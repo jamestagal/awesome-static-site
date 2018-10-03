@@ -1,3 +1,8 @@
-{{ with .Params.h5p }}
-<iframe src="https://elearnvietnamese.h5p.com/content/{{.}}/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://elearnvietnamese.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-{{ end }}
+{{ "<!-- ASIDE -->" | safeHTML }}
+<aside class="bg-dark" style="padding-top: 0px;">
+    <div class="container text-center">
+        <h4 style="padding-bottom: 20px;">This example learning integration is for learning basic greetings between teachers and students using the Northern accent suitable for beginners.</h4>
+        <iframe src="https://elearnvietnamese.h5p.com/content/1290436679514644339/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://elearnvietnamese.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+        {{ template "_internal/disqus.html" . }}
+    </div>
+</aside>
