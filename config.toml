@@ -35,6 +35,7 @@ disqusShortname = "elearnvietnamese"
 		[params.navigation.links]
 			about     = "About"
 			services  = "Services"
+			aside  = "Showcase"
 			portfolio = "Portfolio"
 			contact   = "Contact"
 
@@ -88,7 +89,7 @@ disqusShortname = "elearnvietnamese"
 
     # Aside section
 	[params.aside]
-		headline = "Showcase of integrative activites for learning Vietnamese"
+		headline = "Learning Vietnamese Showcase"
 
 		[params.aside.button]
 			text = ""
@@ -97,9 +98,9 @@ disqusShortname = "elearnvietnamese"
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		description = "Ready to start learning Vietnamese or want us to build you customised eLearning content for learning Vietnamese? That's great! Send us an email and we will get back to you as soon as possible!"
+		phone = ""
+		email = "info@elearnvietnamese.com"
 
 	# Google Maps section
 	# [params.location]
