@@ -51,7 +51,7 @@ disqusShortname = "elearnvietnamese"
 	# About section
 	[params.about]
 		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		description = "eLearn Vietnamese was created with the aim of giving you the best change at learning Vietnamese the right way with the right tools with the benefit of tried and tested methodologies. We develop eLearning resources with engaging, integrative and authentic content."
 		buttonText  = "See our showcase"
 
 
