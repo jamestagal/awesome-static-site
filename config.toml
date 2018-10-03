@@ -52,7 +52,7 @@ disqusShortname = "elearnvietnamese"
 	[params.about]
 		headline    = "We've got what you need!"
 		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+		buttonText  = "See our showcase"
 
 
 	# Service section
@@ -61,23 +61,23 @@ disqusShortname = "elearnvietnamese"
 
         [[params.services.list]]
             icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            title = "Quality eLearning"
+            description = "All our elearning is developed with a learner-centric approach with guided, logical and sequential steps to aid the learning process."
 
         [[params.services.list]]
 			icon = "fa-paper-plane"
 			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			description = "Our eLearning solutions are made using modern web technologies so they work on any device and are kept up-to-date!"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            icon = "fa-clock-o"
+            title = "Convenient"
+            description = "Each activity is self-contained, situational and concise which allows you to easily fit them into your day."
 
         [[params.services.list]]
             icon = "fa-heart"
             title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            description = "Our team is passionate about Vietnamese so each and ever learning integration is carefuly crafted and considered."
 
 
     # Portfolio modals
