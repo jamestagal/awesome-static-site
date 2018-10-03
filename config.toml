@@ -2,7 +2,8 @@ baseurl = "https://www.elearnvietnamese.com/"
 languageCode = "en-us"
 title = "eLearn Vietnamese"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-36343792-1"
+disqusShortname = "elearnvietnamese"
 
 [params]
 
