@@ -44,14 +44,14 @@ disqusShortname = "elearnvietnamese"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Learn Vietnamese online <br> on any device"
-		subtitle   = "eLearn Vietnamese creates engaging & interactive eLearning content for learning Vietnamese"
+		subtitle   = "eLearn Vietnamese creates engaging & interactive e-Learning content for learning Vietnamese"
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
 		headline    = "We've got what you need!"
-		description = "eLearn Vietnamese was created with the aim of giving you the best change at learning Vietnamese the right way with the right tools with the benefit of tried and tested methodologies. We develop eLearning resources with engaging, integrative and authentic content."
+		description = "eLearn Vietnamese was created by Benjamin Waller, an educator, with the aim of giving you the best change at learning Vietnamese the right way with the right tools with the benefit of tried and tested methodologies. We develop eLearning resources with engaging, integrative and authentic content."
 		buttonText  = "See our showcase"
 
 
